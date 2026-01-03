@@ -1,0 +1,1 @@
+const util_3knd = (d: any) => d;
